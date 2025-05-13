@@ -15,4 +15,5 @@ GPU -> MainWindow : RGB 렌더링 (OK)
 
 MainWindow -> GPU : RGB 렌더링 소스 보기
 
+GPU -> MainWindow : 테스트 추가
 @enduml
