@@ -11,5 +11,6 @@ loop 프레임 반복
   Decoder -> Renderer : YUV 프레임 전달
   Renderer -> GPU : 텍스처 업로드 + 셰이더 변환
 end
-GPU -> MainWindow : RGB 렌더링
+GPU -> MainWindow : RGB 렌더링 (OK)
+
 @enduml
