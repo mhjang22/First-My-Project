@@ -13,4 +13,6 @@ loop 프레임 반복
 end
 GPU -> MainWindow : RGB 렌더링 (OK)
 
+MainWindow -> GPU : RGB 렌더링 소스 보기
+
 @enduml
